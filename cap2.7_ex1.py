@@ -57,8 +57,8 @@ e = (y-ya)
 import matplotlib.pyplot as plt
 
 
-plt.scatter(t, y, c='r', s=7, label = 'Numerical', zorder = 100)
-plt.plot(t, ya, linewidth=4, color='palegreen', label='Exact')
+#plt.scatter(t, y, c='r', s=7, label = 'Numerical', zorder = 100)
+plt.plot(t, ya, linewidth=6, color='lightcoral', label='Exact', zorder=1e3)
 
 
 ### Legend ###
@@ -73,7 +73,7 @@ frame.set_color('lightgray')
 plt.xlabel('t', size = 12, weight = 'semibold'); 
 plt.xticks(size = 10, weight = 'semibold')
 
-plt.ylabel('y(t)', size = 12, weight = 'semibold')
+plt.ylabel(u'$\phi (t)$', size = 14, weight = 'semibold')
 plt.yticks(size = 10, weight = 'semibold')
 
 
