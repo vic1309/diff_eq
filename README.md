@@ -10,9 +10,11 @@ This repo was created to gather information, codes and everything else possible 
 
 - [3] *[Numerical Methods for Engineers: A digital compendium](http://lrhgit.github.io/tkt4140/allfiles/digital_compendium/._main002.html)* - **Johan Kolstø Sønstabø & Leif Rune Hellevik**
 
-- [4] *[Numerical Methods Using Python](http://people.bu.edu/andasari/courses/numericalpython/python.html)* - **Vivi Andasari**
+- [4] *[Numerical Methods for Engineers](http://folk.ntnu.no/leifh/teaching/tkt4140/)* ([Course page here](https://www.ntnu.no/wiki/display/kt/TKT4140+Numerical+Methods)) - **Leif Rune Hellevik**
 
-- [5] *[Finite Difference Computing with PDEs - A Modern Software Approach](https://hplgit.github.io/fdm-book/doc/pub/book/pdf/fdm-book-4screen.pdf)* - **Svein Linge & Hans Petter Langtangen**
+- [5] *[Numerical Methods Using Python](http://people.bu.edu/andasari/courses/numericalpython/python.html)* - **Vivi Andasari**
+
+- [6] *[Finite Difference Computing with PDEs - A Modern Software Approach](https://hplgit.github.io/fdm-book/doc/pub/book/pdf/fdm-book-4screen.pdf)* - **Svein Linge & Hans Petter Langtangen**
 
 **Specific topics**
 
